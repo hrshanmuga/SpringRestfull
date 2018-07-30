@@ -1,0 +1,8 @@
+springrestful_example\dao\UserDao.class
+springrestful_example\config\WebConfig.class
+springrestful_example\model\User.class
+springrestful_example\config\WebInitializer.class
+springrestful_example\controller\UserController.class
+springrestful_example\dao\UserDaoImpl$1.class
+springrestful_example\service\UserServiceImpl.class
+springrestful_example\service\UserService.class
